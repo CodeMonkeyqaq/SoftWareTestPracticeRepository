@@ -1,0 +1,2 @@
+# SoftWareTestPracticeRepository
+软件测试课程小练习和各类文档的保存用库
